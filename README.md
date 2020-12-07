@@ -22,4 +22,4 @@ Project-Based Introduction to Programming" by Eric Matthes.
 3. Pygame - can be installed by using the command: "python -m pip install -U
    pygame --user"
 
-    ![Pygame Install](/images/1.png)
+    ![Pygame Install](1.png)
